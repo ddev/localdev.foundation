@@ -22,7 +22,7 @@ Thanks for asking! Lots of users and teams want a way to donate to the DDEV proj
 * You can send a check (in USD please) to the snail mail address below.
 * Contact us for other options, something can work! And thanks!
 
-## Contact the Localdev Foundation
+## Contact the DDEV Foundation
 
 You can contact us any of the ways above, but feel free to contact `support` `at` `ddev.com`
 
